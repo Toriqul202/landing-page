@@ -183,11 +183,21 @@ hr{
   main{
     width: 100%;
   }
+  .container{
+    text-align: center;
+  }
   .players,.blogs,.courses{
     display: grid;
     grid-template-columns: repeat(1,1fr);
     grid-row-gap:30px;
     margin-bottom: 16px;
+    align-items: center;
+  }
+  .course-title{
+    text-align: center;
+  }
+  .player{
+    justify-content: center;
   }
   .blog img{
     width: 100%;
@@ -196,5 +206,18 @@ hr{
     
     flex-direction: column;
   }
+  .rating-text{
+    
+    margin-left:10px ;
+    font-size: 18px;
+  }
+  .time{
+    font-size: 18px;
+  }
+  .star{
+    margin-right: 5px;
+    font-size: 18px;
+  }
+  
 
 }

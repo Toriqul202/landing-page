@@ -189,7 +189,11 @@ hr{
     grid-row-gap:30px;
     margin-bottom: 16px;
   }
+  .blog img{
+    width: 100%;
+  }
   .blog{
+    
     flex-direction: column;
   }
 

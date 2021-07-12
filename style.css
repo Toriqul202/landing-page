@@ -98,8 +98,8 @@ hr{
   align-items: center;
 }
 .blog img{
-  width: 170px;
-  height: 150px;
+  width: 176px;
+  
 }
 .blog-info{
   margin-left: 16px;
@@ -137,8 +137,8 @@ hr{
   grid-template-columns: repeat(3,1fr);
 }
 .course img{
-  width:230px;
-  height:140px;
+  width:100%;
+ 
 }
 .course{
   

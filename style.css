@@ -59,7 +59,7 @@ hr{
 .top-player-title{
   color: #562EFF;
   margin-top: 3px;
-  font-size: 20px;
+  font-size: 24px;
 }
 .players{
   display: grid;
@@ -78,7 +78,7 @@ hr{
 .player-name{
   margin-left: 16px;
   font-size:20px;
-  font-weight: 400;
+  
 }
 /*`````````````````
 
@@ -86,7 +86,7 @@ hr{
 .blog-title{
   color: #562EFF;
   margin-top: 33px;
-  font-size: 20px;
+  font-size: 24px;
 }
 .blogs{
   display: grid;
@@ -129,8 +129,9 @@ hr{
  }
  .course-title{
    color: #562EFF;
-   font-size: 20px;
+   font-size: 24px;
    margin-top: 0;
+   margin-left:10px ;
  }
 .courses{
   display: grid;
@@ -142,23 +143,33 @@ hr{
 }
 .course{
   
-  padding: 10px;
+  padding: 20px;
+  border-radius: 20px;
+  box-shadow: 1px 2px 2px 1px gray ;
+  margin-left: 15px;
 }
 .course h3{
-  font-size: 18px;
+  font-size: 20px;
 }
 .star{
-  margin-right: 1px;
+  margin-right: 10px;
 }
 #golden{
   color: #FFC014;
+  font-size: 20px;
 }
 #blur{
   color: #D1D1D1;
+  font-size: 20px;
 }
 .time{
   margin-left: 10px;
   background-color: #ff4a5fad;
   padding: 2px 2px;
   border-radius: 10px;
+  font-size: 20px;
+}
+.rating-text{
+  font-size: 20px;
+  margin-left:15px ;
 }

@@ -189,5 +189,8 @@ hr{
     grid-row-gap:30px;
     margin-bottom: 16px;
   }
+  .blog{
+    flex-direction: column;
+  }
 
 }

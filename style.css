@@ -173,3 +173,20 @@ hr{
   font-size: 20px;
   margin-left:15px ;
 }
+
+
+/* -------------------------------responsive---------------- */
+
+
+
+@media only screen  and (max-width:688px){
+  main{
+    width: 100%;
+  }
+  .players{
+    display: grid;
+    grid-template-columns: repeat(1,1fr);
+    grid-row-gap:30px;
+    margin-bottom: 16px;
+  }
+}

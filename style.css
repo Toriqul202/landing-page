@@ -184,7 +184,7 @@ hr{
     width: 100%;
   }
   .container{
-    text-align: center;
+   text-align:  center;
   }
   .players,.blogs,.courses{
     display: grid;
@@ -208,16 +208,22 @@ hr{
   }
   .rating-text{
     
-    margin-left:10px ;
-    font-size: 18px;
+    margin-left:5px ;
+    font-size: 14px;
   }
   .time{
-    font-size: 18px;
+    font-size: 14px;
   }
   .star{
     margin-right: 5px;
-    font-size: 18px;
+    font-size: 14px;
   }
+  .course{
+    
+    margin-right: 15px;
+    
+   
+   }
   
 
 }

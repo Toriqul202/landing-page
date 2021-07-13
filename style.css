@@ -147,6 +147,7 @@ hr{
   border-radius: 20px;
   box-shadow: 1px 2px 2px 1px gray ;
   margin-left: 15px;
+  margin-right: 15px;
 }
 .course h3{
   font-size: 20px;
@@ -220,7 +221,8 @@ hr{
   }
   .course{
     
-    margin-right: 15px;
+    margin-right: 10px;
+    margin-left: 10px;
     
    
    }
